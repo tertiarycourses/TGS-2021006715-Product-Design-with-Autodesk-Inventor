@@ -9,8 +9,8 @@
 - Rebuilt the Learner Guide and Lesson Plan from the same course source and current slide map.
 - Revised the 8-question WA and 6-task PP while preserving K1–K8, A1–A11 and instrument type.
 - Prepared Drive/TMS publication metadata and the public-only GitHub release boundary.
+- Corrected the cover logo and title clearance for an unobstructed course title.
 
 ## v8.0 — 16 July 2026
 
 - Legacy trainer deck and delivery package retained as the prior release authority.
-
